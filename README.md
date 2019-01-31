@@ -9,7 +9,7 @@
     <aura:dependency resource="lightning:helptext"/>
 </aura:application>
 ```
-##### Visualforce page implementing lighting:helptext binded to a span by ID
+##### Visualforce page implementing lighting:helptext binded to a span by ID "testHelpText"
 ```html
 <apex:page showHeader="true" sidebar="true">
 	<apex:slds />
