@@ -37,4 +37,5 @@
     </script>
 </apex:page>
 ```
-
+##### Visualforce Page Demo
+![Help Text Example](/helpTextExample.png?raw=true "Help Text Example")
